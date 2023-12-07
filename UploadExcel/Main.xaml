@@ -82,7 +82,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:GetPassword DisplayName="Private: Get Password" sap:VirtualizedContainerService.HintSize="333.6,22.4" sap2010:WorkflowViewState.IdRef="GetPassword_1" ProtectedPassword="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAyRYUKFiILEq7XMlAY39Y5wAAAAACAAAAAAAQZgAAAAEAACAAAABIdrUTK7HplzpYpfu0QLStbEcWN2zYNcDH6/tVWpMRhQAAAAAOgAAAAAIAACAAAADWnVQsZaeqmxng6wjS1XKhu0f6CivdyQtvilv2OTdo0hAAAACSOxp3jrZia9CHw7ienKErQAAAADUsobUnzfc5nFilWDEnTD3bQ+qAhzndvAdHIV7MQOvUbkrsBHgqFfBlJCrpgROMluqzbAz6IiSShwhZaE4J0PU=">
+    <ui:GetPassword DisplayName="Private: Get Password" sap:VirtualizedContainerService.HintSize="333.6,22.4" sap2010:WorkflowViewState.IdRef="GetPassword_1" ProtectedPassword="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAyRYUKFiILEq7XMlAY39Y5wAAAAACAAAAAAAQZgAAAAEAACAAAAArNKZytZW3bKRkE/Bkhroe6jhE7lvA/tzdtOxdelojpgAAAAAOgAAAAAIAACAAAAD8qtAP3jKYDGf3y1vO47wPxRkuwtGIM9J3hYKfxRmM9RAAAAD1nbQ5X8oTNVR78LdKYaiAQAAAAM+cvz6vmrShKGXWnLDGLGbKU+g2SP5gFk8A3GT3OI1kuE8kyfj93FI4uxXDEFn5y9kja4T+9j06rV02zs8rY+M=">
       <ui:GetPassword.Result>
         <OutArgument x:TypeArguments="x:String">
           <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_1">pwd</mca:CSharpReference>

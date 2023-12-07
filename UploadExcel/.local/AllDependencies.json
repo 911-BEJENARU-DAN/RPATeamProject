@@ -8635,9 +8635,9 @@
     "restore": {
       "projectUniqueName": "UploadExcel",
       "projectName": "UploadExcel",
-      "projectPath": "C:\\Coding Apps\\Info - University\\Year 3 - Semester 1\\RPA\\UploadExcel\\.local",
+      "projectPath": "C:\\Coding Apps\\Info - University\\Year 3 - Semester 1\\RPA\\RPATeamProject\\UploadExcel\\.local",
       "packagesPath": "C:\\Users\\danyb\\.nuget\\packages\\",
-      "outputPath": "C:\\Coding Apps\\Info - University\\Year 3 - Semester 1\\RPA\\UploadExcel\\.local"
+      "outputPath": "C:\\Coding Apps\\Info - University\\Year 3 - Semester 1\\RPA\\RPATeamProject\\UploadExcel\\.local"
     },
     "frameworks": {
       "net461": {
